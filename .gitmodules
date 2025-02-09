@@ -1,0 +1,3 @@
+[submodule "vehiculo"]
+	path = vehiculo
+	url = https://github.com/bibianasantos/vehiculo.git
