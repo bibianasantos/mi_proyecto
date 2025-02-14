@@ -3,3 +3,4 @@
 =======
 "Otro texto agregado en la misma l¡nea." 
 >>>>>>> c48e646581320fd5a98c23f3bcaae7b6f854993e
+Este es el nuevo texto agregado por mí.
